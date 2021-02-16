@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\levim\source\repos\RandomNumFinder\RandomNumFinder\Source.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\levim\source\repos\RandomNumFinder\RandomNumFinder\Source.cpp(32,72): warning C4129: 'm': unrecognized character escape sequence
+  RandomNumFinder.vcxproj -> C:\Users\levim\source\repos\RandomNumFinder\Debug\RandomNumFinder.exe
